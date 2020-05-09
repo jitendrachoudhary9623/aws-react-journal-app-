@@ -8,9 +8,9 @@ Serverless journal application where a user can pen down their thoughts, feeling
 - The application allows users to upload a file. 
 - The application only displays items for a logged in user.
 - A user needs to authenticate in order to use an application
-![home](https://github.com/jitendrasteam/aws-journal-app/blob/dev/screenshots/home.png)
+![home](https://github.com/jitendrasteam/aws-react-journal-app-/blob/dev/screenshots/home.png)
 
-![login](https://github.com/jitendrasteam/aws-journal-app/blob/dev/screenshots/login.png)
+![login](https://github.com/jitendrasteam/aws-react-journal-app-/blob/dev/screenshots/login.png)
 ## Codebase
 
 - The code is split into multiple layers separating business logic from I/O related code.
